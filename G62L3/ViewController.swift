@@ -36,5 +36,15 @@ class ViewController: UIViewController {
         print("i did my 2nd task")
     }
 
+    // Block 2
+
+    func task3() {
+        print("")
+    }
+
+    func task4() {
+        print("")
+    }
+
 }
 
