@@ -20,6 +20,15 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    // Block 1
+
+    func task1() {
+        print("i did my 1st task")
+    }
+
+    func task2() {
+        print("i did my 2nd task")
+    }
 
 }
 
