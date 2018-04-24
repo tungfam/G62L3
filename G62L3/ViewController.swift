@@ -26,7 +26,13 @@ class ViewController: UIViewController {
         print("i did my 1st task")
     }
 
-    func task2() {
+    func taskTwo() {
+        print("i did my 2nd task")
+        print("i did my 2nd task")
+        print("i did my 2nd task")
+        print("i did my 2nd task")
+        print("i did my 2nd task")
+        print("i did my 2nd task")
         print("i did my 2nd task")
     }
 
